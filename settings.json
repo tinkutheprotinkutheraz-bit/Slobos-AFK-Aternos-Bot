@@ -7,7 +7,9 @@
   },
   "server": {
     "ip": "tinkuthepro.aternos.me",
-    "port": 27586,
+    "port": 58178
+
+  ,
     "version": "",
     "try-creative": false
   },
